@@ -1,0 +1,13 @@
+[project]
+name = "zh-project"
+version = "1.0.0"
+description = "ZH PROJECT + ZAH MUSIK - ZAXRO"
+authors = [{name = "ZAXRO"}]
+dependencies = [
+    "flet==0.28.0",
+    "flet-webview==0.28.0",
+]
+
+[tool.flet]
+app_name = "ZH PROJECT"
+package_name = "com.zaxro.zhproject"
